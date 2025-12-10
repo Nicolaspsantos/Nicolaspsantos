@@ -1,4 +1,4 @@
-### 📊 Minhas Estatísticas
+### Olá! Eu sou Nícolas Pereira
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
