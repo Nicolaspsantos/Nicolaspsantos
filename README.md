@@ -1,11 +1,9 @@
 ### Olá! Eu sou Nícolas Pereira 
 📊
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nicolaspsantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolaspsantos&layout=compact&theme=dracula"/>
-  </a>
-</div>
+### 📊 Estatísticas
+
+![Stats do Nicolas](https://github-readme-stats.vercel.app/api?username=Nicolaspsantos&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+
+### 💻 Linguagens
+
+![Linguagens do Nicolas](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolaspsantos&layout=compact&theme=dracula&hide_border=true)
