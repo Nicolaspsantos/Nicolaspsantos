@@ -74,11 +74,11 @@
 ### Estatísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nicolaspsantos&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolaspsantos&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nicolaspsantos&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400&v=1" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolaspsantos&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400&v=1" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nicolaspsantos&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nicolaspsantos&theme=tokyonight&hide_border=true&background=0D1117&v=1" alt="GitHub Streak" />
 </p>
 
 <br/>
