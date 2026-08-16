@@ -3,11 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvedor+Web+e+Mobile;Sites%2C+bots+e+automa%C3%A7%C3%A3o&font=Fira+Code&center=true&width=520&height=45&color=1E3A5F&vCenter=true&size=20" alt="Typing Animation Subtitle" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nicolaspsantos&label=Visualizações%20do%20perfil&color=1E3A5F&style=flat" alt="Visitor Badge" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Estudante+de+Ci%C3%AAncias+da+Computa%C3%A7%C3%A3o;Desenvolvedor+de+Software+em+forma%C3%A7%C3%A3o&font=Fira+Code&center=true&width=520&height=45&color=1E3A5F&vCenter=true&size=20" alt="Typing Animation Subtitle" />
 </p>
 
 <br/>
