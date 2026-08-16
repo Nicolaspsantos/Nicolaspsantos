@@ -43,8 +43,8 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,vscode&perline=6&theme=dark" alt="Ferramentas" />
-  <img src="https://img.shields.io/badge/OBS_Studio-302E31?style=for-the-badge&logo=obsstudio&logoColor=white" alt="OBS Studio" />
-  <img src="https://img.shields.io/badge/SquareCloud-6C5CE7?style=for-the-badge" alt="SquareCloud" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
 </p>
 
 <br/>
