@@ -21,10 +21,30 @@
 
 ### Tecnologias & Ferramentas
 
+**Linguagens de Programação e Marcação**
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,py,java,php,react,nodejs,fastapi,html,css,mysql,sqlite,git&perline=6&theme=dark" alt="Minhas Tecnologias" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=js,py,java,php,html,css&perline=6&theme=dark" alt="Linguagens" />
+</p>
+
+**Frameworks e Bibliotecas**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,react&perline=6&theme=dark" alt="Frameworks e Bibliotecas" />
+</p>
+
+**Bancos de Dados**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite&perline=6&theme=dark" alt="Bancos de Dados" />
+</p>
+
+**Ferramentas & Plataformas**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,vscode&perline=6&theme=dark" alt="Ferramentas" />
+  <img src="https://img.shields.io/badge/OBS_Studio-302E31?style=for-the-badge&logo=obsstudio&logoColor=white" alt="OBS Studio" />
+  <img src="https://img.shields.io/badge/SquareCloud-6C5CE7?style=for-the-badge" alt="SquareCloud" />
 </p>
 
 <br/>
@@ -60,27 +80,28 @@
 
 <br/>
 
-### Estatísticas
+### Estatísticas e Atividade
+
+**🔥 Sequência de Contribuições**
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Nicolaspsantos&theme=tokyonight&hide_border=true&background=0D1117&v=1" alt="GitHub Streak" />
+</p>
+
+**💻 Estatísticas do GitHub**
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nicolaspsantos&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400&v=1" alt="GitHub Stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolaspsantos&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400&v=1" alt="Top Languages" />
 </p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Nicolaspsantos&theme=tokyonight&hide_border=true&background=0D1117&v=1" alt="GitHub Streak" />
-</p>
 
-<br/>
-
-### Gráfico de Atividade
+**📈 Gráfico de Atividade**
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nicolaspsantos&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Gráfico de Atividade" />
 </p>
 
-<br/>
-
-### Atividade Recente
+**⚡ Atividade Recente**
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
