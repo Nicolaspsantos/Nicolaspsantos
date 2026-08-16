@@ -70,11 +70,6 @@
       <p>Sistema robusto de autenticação e gestão de login, com foco em segurança e arquitetura estruturada.</p>
       <b>Stack:</b> Java
     </td>
-    <td width="50%" valign="top">
-      <h4>TikTok Live Jar Overlay</h4>
-      <p>Overlay animado (Browser Source) que interage em tempo real com eventos da live, preenchendo um recipiente virtual com itens doados.</p>
-      <b>Stack:</b> Node.js, WebSockets, TikTok Live Connector
-    </td>
   </tr>
 </table>
 
