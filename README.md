@@ -72,6 +72,21 @@
 
 <br/>
 
+### Gráfico de Atividade
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nicolaspsantos&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Gráfico de Atividade" />
+</p>
+
+<br/>
+
+### Atividade Recente
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<br/>
+
 ### Contato
 
 <p align="center">
