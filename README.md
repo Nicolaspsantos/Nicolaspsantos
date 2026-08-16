@@ -1,7 +1,9 @@
-<h1 align="center">Olá, eu sou o Nícolas</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=35&pause=2000&color=0600F7&background=51FF7200&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+N%C3%ADcolas;NPS" alt="Olá, eu sou o Nícolas" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Estudante+de+Ciência+da+Computação;Desenvolvedor+Web+e+Mobile;Sites%2C+bots+e+automação&font=Fira+Code&center=true&width=520&height=45&color=1E3A5F&vCenter=true&size=20" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Estudante+de+Ciência+da+Computação;Desenvolvedor+Web+e+Mobile;Sites%2C+bots+e+automação&font=Fira+Code&center=true&width=520&height=45&color=1E3A5F&vCenter=true&size=20" alt="Typing Animation Subtitle" />
 </p>
 
 <p align="center">
