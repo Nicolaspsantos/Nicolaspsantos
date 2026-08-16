@@ -43,6 +43,8 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,vscode&perline=6&theme=dark" alt="Ferramentas" />
+  <img src="https://img.shields.io/badge/OBS_Studio-302E31?style=for-the-badge&logo=obsstudio&logoColor=white" alt="OBS Studio" />
+  <img src="https://img.shields.io/badge/SquareCloud-6C5CE7?style=for-the-badge" alt="SquareCloud" />
 </p>
 
 <br/>
