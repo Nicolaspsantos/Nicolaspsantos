@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Estudante+de+Ciência+da+Computação;Desenvolvedor+Web+e+Mobile;Sites%2C+bots+e+automação&font=Fira+Code&center=true&width=520&height=45&color=1E3A5F&vCenter=true&size=20" alt="Typing Animation Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvedor+Web+e+Mobile;Sites%2C+bots+e+automa%C3%A7%C3%A3o&font=Fira+Code&center=true&width=520&height=45&color=1E3A5F&vCenter=true&size=20" alt="Typing Animation Subtitle" />
 </p>
 
 <p align="center">
