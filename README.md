@@ -1,18 +1,96 @@
-<h1 align="center">Olá, eu sou o Nícolas 👋</h1> <p align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Estudante+de+Ciência+da+Computação;Buscando+estágio+%2F+vaga+entry-level+em+TI;Sites%2C+bots+de+Discord+e+automação&font=Fira+Code&center=true&width=520&height=45&color=1E3A5F&vCenter=true&size=20" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=Nicolaspsantos&label=Visualizações%20do%20perfil&color=1E3A5F&style=flat" alt="visitor badge" /> </p>
-🚀 Sobre mim
-🎓 Estudante de Ciência da Computação, em busca de estágio ou vaga entry-level (dev / suporte técnico N1) no Brasil
-🌐 Foco em desenvolvimento de sites e bots de Discord, aprendendo Java
-🛠️ Também construo ferramentas de automação e integrações em tempo real (Python/Node.js)
-📡 Curto o universo de live streaming, criando overlays e sistemas de monitoramento
-🌱 Aberto a projetos para aprimorar código e sempre aprendendo algo novo
-🛠️ Tecnologias & Ferramentas
-<p align="left"> <img src="https://img.shields.io/badge/HTML5-1E3A5F?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1E3A5F?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-1E3A5F?style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/Python-1E3A5F?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-1E3A5F?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-1E3A5F?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-1E3A5F?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-1E3A5F?style=for-the-badge&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/Git-1E3A5F?style=for-the-badge&logo=git&logoColor=white" /> </p>
-💡 Projetos em destaque
-<table> <tr> <td width="50%"> <h4>🌐 <a href="https://github.com/Nicolaspsantos/Quantiron">Quantiron</a></h4> Site de portfólio para divulgação e contato, no ar em <a href="https://www.quantiron.com.br">quantiron.com.br</a>.<br/> <b>Stack:</b> HTML, CSS </td> <td width="50%"> <h4>🔗 <a href="https://github.com/Nicolaspsantos/Redes-Sociais-pJulialves">Redes Sociais - Julia Alves</a></h4> Página simples e responsiva para centralizar os links de redes sociais de uma streamer.<br/> <b>Stack:</b> HTML, CSS </td> </tr> <tr> <td width="50%"> <h4>🔐 <a href="https://github.com/Nicolaspsantos/Auth_system">Auth System</a></h4> Sistema de autenticação/login construído em Java.<br/> <b>Stack:</b> Java </td> <td width="50%"> <h4>🫙 TikTok Live Jar Overlay</h4> Overlay animado (Browser Source para OBS/TikTok Live Studio) que enche um pote de vidro com ícones de presentes durante a live.<br/> <b>Stack:</b> Node.js, tiktok-live-connector, WebSockets </td> </tr> </table>
+<h1 align="center">Olá, eu sou o Nícolas 👋</h1>
 
-💡 Os dois primeiros e o Auth System já estão nos seus repositórios reais. O overlay do TikTok eu puxei do nosso histórico — se ele estiver no GitHub (mesmo privado), me manda o link que eu ajusto o card certinho.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Estudante+de+Ciência+da+Computação;Buscando+estágio+%2F+vaga+entry-level+em+TI;Sites%2C+bots+de+Discord+e+automação&font=Fira+Code&center=true&width=520&height=45&color=1E3A5F&vCenter=true&size=20" />
+</p>
 
-📊 Estatísticas do GitHub
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nicolaspsantos&show_icons=true&hide_border=true&bg_color=0D1117&title_color=1E3A5F&icon_color=1E3A5F&text_color=c9d1d9" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolaspsantos&layout=compact&hide_border=true&bg_color=0D1117&title_color=1E3A5F&text_color=c9d1d9" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nicolaspsantos&hide_border=true&background=0D1117&stroke=1E3A5F&ring=1E3A5F&fire=1E3A5F&currStreakLabel=1E3A5F" /> </p>
-📫 Como me encontrar
-<p align="left"> <a href="https://www.linkedin.com/in/nicolaspsantoss/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-1E3A5F?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://www.quantiron.com.br" target="_blank"> <img src="https://img.shields.io/badge/Portfólio-1E3A5F?style=for-the-badge&logo=googlechrome&logoColor=white" /> </a> </p> <p align="center"><i>Aberto a oportunidades de estágio e vagas entry-level em desenvolvimento 🚀</i></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nicolaspsantos&label=Visualizações%20do%20perfil&color=1E3A5F&style=flat" alt="visitor badge" />
+</p>
+
+---
+
+### 🚀 Sobre mim
+
+- 🎓 Estudante de Ciência da Computação, em busca de **estágio** ou vaga **entry-level** (dev / suporte técnico N1) no Brasil
+- 🌐 Foco em desenvolvimento de **sites** e **bots de Discord**, aprendendo **Java**
+- 🛠️ Também construo ferramentas de **automação** e integrações em tempo real (Python/Node.js)
+- 📡 Curto o universo de **live streaming**, criando overlays e sistemas de monitoramento
+- 🌱 Aberto a projetos para aprimorar código e sempre aprendendo algo novo
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-1E3A5F?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1E3A5F?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-1E3A5F?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-1E3A5F?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-1E3A5F?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-1E3A5F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-1E3A5F?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-1E3A5F?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-1E3A5F?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 💡 Projetos em destaque
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4>🌐 <a href="https://github.com/Nicolaspsantos/Quantiron">Quantiron</a></h4>
+      Site de portfólio para divulgação e contato, no ar em <a href="https://www.quantiron.com.br">quantiron.com.br</a>.<br/>
+      <b>Stack:</b> HTML, CSS
+    </td>
+    <td width="50%">
+      <h4>🔗 <a href="https://github.com/Nicolaspsantos/Redes-Sociais-pJulialves">Redes Sociais - Julia Alves</a></h4>
+      Página simples e responsiva para centralizar os links de redes sociais de uma streamer.<br/>
+      <b>Stack:</b> HTML, CSS
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>🔐 <a href="https://github.com/Nicolaspsantos/Auth_system">Auth System</a></h4>
+      Sistema de autenticação/login construído em Java.<br/>
+      <b>Stack:</b> Java
+    </td>
+    <td width="50%">
+      <h4>🫙 TikTok Live Jar Overlay</h4>
+      Overlay animado (Browser Source para OBS/TikTok Live Studio) que enche um pote de vidro com ícones de presentes durante a live.<br/>
+      <b>Stack:</b> Node.js, tiktok-live-connector, WebSockets
+    </td>
+  </tr>
+</table>
+
+> 💡 Os dois primeiros e o Auth System já estão nos seus repositórios reais. O overlay do TikTok eu puxei do nosso histórico — se ele estiver no GitHub (mesmo privado), me manda o link que eu ajusto o card certinho.
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nicolaspsantos&show_icons=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolaspsantos&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nicolaspsantos&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Como me encontrar
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/nicolaspsantoss/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-1E3A5F?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.quantiron.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-1E3A5F?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
+
+<p align="center"><i>Aberto a oportunidades de estágio e vagas entry-level em desenvolvimento 🚀</i></p>
