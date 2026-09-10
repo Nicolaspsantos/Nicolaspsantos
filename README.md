@@ -1,117 +1,65 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=35&pause=2000&color=0600F7&background=51FF7200&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+N%C3%ADcolas;NPS" alt="Olá, eu sou o Nícolas" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Estudante+de+Ci%C3%AAncias+da+Computa%C3%A7%C3%A3o;Desenvolvedor+de+Software+em+forma%C3%A7%C3%A3o&font=Fira+Code&center=true&width=520&height=45&color=1E3A5F&vCenter=true&size=20" alt="Typing Animation Subtitle" />
-</p>
+[![Olá, eu sou o Nícolas](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=35&pause=2000&color=0600F7&background=51FF7200&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+N%C3%ADcolas;NPS)](https://github.com/Nicolaspsantos)
 
-<br/>
+[![Typing Animation Subtitle](https://readme-typing-svg.demolab.com/?lines=Estudante+de+Ci%C3%AAncias+da+Computa%C3%A7%C3%A3o;Desenvolvedor+de+Software+em+forma%C3%A7%C3%A3o&font=Fira+Code&center=true&width=520&height=45&color=1E3A5F&vCenter=true&size=20)](https://github.com/Nicolaspsantos)
+
+</div>
 
 ### Sobre Mim
 
 > Estudante de Ciência da Computação focado na construção de aplicações eficientes e modernas. Tenho experiência no desenvolvimento de soluções que vão desde a web até aplicativos móveis e sistemas de automação, buscando sempre aliar desempenho a um código limpo.
 
 - **Objetivo:** Buscando oportunidades de estágio ou vagas de nível júnior (Desenvolvimento / Suporte Técnico N1).
-- **Foco de Desenvolvimento:** Criação de sites responsivos, aplicativos mobile, desenvolvimento de bots e integração de APIs.
+- **Foco de Desenvolvimento:** Aplicações full-stack (React + FastAPI), sites responsivos, bots e integração de APIs.
 - **Ecossistema de Streaming:** Desenvolvimento de overlays customizados e ferramentas interativas em tempo real utilizando WebSockets.
 - **Aprendizado Contínuo:** Atualmente aprofundando conhecimentos em Java e explorando novas arquiteturas de software.
-
-<br/>
 
 ### Tecnologias & Ferramentas
 
 **Linguagens de Programação e Marcação**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,py,java,php,html,css&perline=6&theme=dark" alt="Linguagens" />
-</p>
+[![Linguagens](https://skillicons.dev/icons?i=js,py,java,html,css&perline=6&theme=dark)](https://skillicons.dev)
 
 **Frameworks e Bibliotecas**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,react&perline=6&theme=dark" alt="Frameworks e Bibliotecas" />
-</p>
+[![Frameworks e Bibliotecas](https://skillicons.dev/icons?i=nodejs,fastapi,react&perline=6&theme=dark)](https://skillicons.dev)
 
 **Bancos de Dados**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite&perline=6&theme=dark" alt="Bancos de Dados" />
-</p>
+[![Bancos de Dados](https://skillicons.dev/icons?i=mysql,sqlite&perline=6&theme=dark)](https://skillicons.dev)
 
 **Ferramentas & Plataformas**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,vscode&perline=6&theme=dark" alt="Ferramentas" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
-</p>
-
-<br/>
+[![Ferramentas](https://skillicons.dev/icons?i=git,vscode&perline=6&theme=dark)](https://skillicons.dev)
+[![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)](https://cursor.sh)
+[![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)](https://claude.com)
 
 ### Projetos em Destaque
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/Nicolaspsantos/Quantiron">Quantiron (NPS)</a></h4>
-      <p>Site de portfólio para divulgação de serviços de desenvolvimento e contato. Disponível em <a href="https://www.quantiron.com.br">quantiron.com.br</a>.</p>
-      <b>Stack:</b> HTML, CSS, JavaScript
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/Nicolaspsantos/Redes-Sociais-pJulialves">Hub de Links - Streamer</a></h4>
-      <p>Página de alta performance e responsiva desenvolvida para centralizar as redes sociais e contatos profissionais.</p>
-      <b>Stack:</b> HTML, CSS
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/Nicolaspsantos/Auth_system">Auth System</a></h4>
-      <p>Sistema robusto de autenticação e gestão de login, com foco em segurança e arquitetura estruturada.</p>
-      <b>Stack:</b> Java
-    </td>
-  </tr>
-</table>
+*Alguns repositórios estão privados — código disponível mediante solicitação.*
 
-<br/>
+- **[Quantiron](https://www.quantiron.com.br)** — Site de portfólio para divulgação de serviços de desenvolvimento e contato. **Stack:** HTML, CSS, JavaScript
+- **PriceTracker** — Aplicação de monitoramento de preços com dashboard em React e backend em FastAPI. **Stack:** React, FastAPI, Python
+- **Hub de Links - Streamer** — Página de alta performance e responsiva desenvolvida para centralizar redes sociais e contatos profissionais. **Stack:** HTML, CSS
+- **Auth System** — Sistema robusto de autenticação e gestão de login, com foco em segurança e arquitetura estruturada. **Stack:** Java
+- **TimerSubathon** — Ferramenta de cronômetro para subathons, integrada a overlays de stream em tempo real. **Stack:** JavaScript
 
 ### Estatísticas e Atividade
 
 **🔥 Sequência de Contribuições**
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Nicolaspsantos&theme=tokyonight&hide_border=true&background=0D1117&v=1" alt="GitHub Streak" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Nicolaspsantos&theme=tokyonight&hide_border=true&background=0D1117&v=1)](https://github.com/Nicolaspsantos)
 
 **💻 Estatísticas do GitHub**
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nicolaspsantos&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400&v=1" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolaspsantos&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400&v=1" alt="Top Languages" />
-</p>
-
-**📈 Gráfico de Atividade**
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nicolaspsantos&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Gráfico de Atividade" />
-</p>
-
-**⚡ Atividade Recente**
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-<br/>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nicolaspsantos&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400&v=1)](https://github.com/Nicolaspsantos)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolaspsantos&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400&v=1)](https://github.com/Nicolaspsantos)
 
 ### Contato
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nicolaspsantoss/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-1E3A5F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.quantiron.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-1E3A5F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E3A5F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolaspsantoss/)
+[![Website](https://img.shields.io/badge/Portf%C3%B3lio-1E3A5F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.quantiron.com.br)
+[![Currículo](https://img.shields.io/badge/Curr%C3%ADculo-1E3A5F?style=for-the-badge)](SUBSTITUA_PELO_LINK_DO_SEU_CV)
 
-<p align="center"><i>Aberto a oportunidades em desenvolvimento de software e suporte em TI.</i></p>
+*Aberto a oportunidades em desenvolvimento de software e suporte em TI.*
