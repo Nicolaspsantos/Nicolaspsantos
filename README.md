@@ -49,7 +49,11 @@
 
 **🔥 Sequência de Contribuições**
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Nicolaspsantos&theme=tokyonight&hide_border=true&background=0D1117&v=1)](https://github.com/Nicolaspsantos)
+<p align="center">
+  <a href="https://github.com/Nicolaspsantos">
+    <img src="https://streak-stats.demolab.com/?user=Nicolaspsantos&theme=tokyonight&hide_border=true&background=0D1117&v=1" alt="GitHub Streak" />
+  </a>
+</p>
 
 ### Contato
 
