@@ -45,16 +45,11 @@
 - **Auth System** — Sistema robusto de autenticação e gestão de login, com foco em segurança e arquitetura estruturada. **Stack:** Java
 - **TimerSubathon** — Ferramenta de cronômetro para subathons, integrada a overlays de stream em tempo real. **Stack:** JavaScript
 
-### Estatísticas e Atividade
+### Atividade
 
 **🔥 Sequência de Contribuições**
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Nicolaspsantos&theme=tokyonight&hide_border=true&background=0D1117&v=1)](https://github.com/Nicolaspsantos)
-
-**💻 Estatísticas do GitHub**
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nicolaspsantos&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400&v=1)](https://github.com/Nicolaspsantos)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolaspsantos&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400&v=1)](https://github.com/Nicolaspsantos)
 
 ### Contato
 
